@@ -118,6 +118,8 @@ Open `config.js` and replace:
 
 ```javascript
 const connToken = "ENTER_YOUR_TOKEN_HERE";
+const dbName = "SCHOOL-DB";
+const relName = "STUDENT-TABLE";
 ```
 
 ### 3. Run the Project
